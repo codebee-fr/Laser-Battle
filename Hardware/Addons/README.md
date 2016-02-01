@@ -1,6 +1,6 @@
 ## Game Addons ##
 ----------
 Game addons like :
- - Multipurpose Game Box for :
+ - Multipurpose Game Box
  - Domination tube
  - etc.
